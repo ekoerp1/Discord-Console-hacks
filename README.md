@@ -1,3 +1,19 @@
+# Discontinued.
+
+This project is officially discontinued, I neither have time nor motivation to keep maintaining this, sorry.
+
+I'd recommend leaving this toxic cesspit of a platform and never touch discord again, but ig that's up to you.
+
+Since everything in this repo is and has been open-source, feel free to fork it, restart it, do whatever you want with it.<br />
+With only one condition: That it stays open source / granting everyone you redistribute it to the same rights as I'm granting to you. Check the attached [LICENSE](LICENSE) GPLv3 for more info.
+
+
+Thanks for everyone who was part of this and goodbye. (deleting this account)
+
+_hxr404_
+
+---
+
 # Discord Console Hacks
 [![License: GPL v3+](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
